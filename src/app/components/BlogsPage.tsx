@@ -1,4 +1,4 @@
-"use client";
+// src/app/page.tsx
 import { client } from "../sanity/lib/client";
 import Image from "next/image";
 import React from "react";
